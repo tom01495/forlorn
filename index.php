@@ -14,7 +14,7 @@
   </head>
   <body>
     <main>
-        <h1>Forlorn</h1>  
+        <h1>FORLORN</h1>  
     </main>
     <script src="index.js"></script>
   </body>
