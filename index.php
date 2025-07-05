@@ -14,7 +14,10 @@
   </head>
   <body>
     <main>
-        <h1>FORLORN</h1>  
+        <h1>FORLORN</h1>
+
+        Creation of the world
+
     </main>
     <script src="index.js"></script>
   </body>
