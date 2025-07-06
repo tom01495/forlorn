@@ -1,0 +1,1 @@
+20 years after the Cimmerian, the darkening of the sky. Since that day, grass, forests, beasts and men, all faltered. Only us, the Dwarfs under the High Council, still as strong. But how long will we last in the dark? Will we be able to save ourselves? Save the world?

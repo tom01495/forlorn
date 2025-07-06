@@ -1,14 +1,48 @@
-/* */
+/*===========================*/
+/*=           MAIN          =*/
+/*===========================*/
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    /* text */
+    font-family: "Calisto MT", "Bookman Old Style", "Bookman,Goudy Old Style", "Garamond,Hoefler Text", "Bitstream Charter", "Georgia,serif";
     text-align: center;
 
+    /* background*/
     background-color: black;
 }
 
 main {
+    /* size */
     margin: auto;
+    margin-top: 10px;
     max-width: 800px;
-    background-color: grey;
+
+    /* background */
+    background-color: white;
+    border-radius: 25px;
+}
+
+/*===========================*/
+/*=           TEXT          =*/
+/*===========================*/
+
+h1 {
+    /* size */
+    margin: auto;
+    width: fit-content;
+
+    /* text */
+    font-size: 80px;
+    text-decoration: underline;
+    font-weight: bolder;
+    text-shadow: 1px 0 black;
+
+    /* background */
+    background-color: brown;
+}
+
+p.red {
+    /* text */
+    color: brown;
+    font-weight: bolder;
 }
