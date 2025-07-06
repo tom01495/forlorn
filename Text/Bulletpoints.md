@@ -66,4 +66,9 @@ DWARVES
 
 * Door de eeuwen heen gebeurt hetzelfde bij mensen. Mensen nog korter dan normaal, nog scherpere features, nog meer haar, nog wilder gedrag en nog korter leven.
 * De mensen zondere zich ook af van dit "nog minder zuivere" ras, de "dwergen", maar in hun wreedheid gebruiken dit ras veelal voor de naarste taken (denk laagste kasten in india), totaan slavernij en ogen dichtknijpen bij allerlei wreedheid.
-* Vele dwergen vluchten en verstoppen zich voor de mensen. In donkere grotten o
+* Vele dwergen vluchten en verstoppen zich voor de mensen. In donkere grotten of in diepe bossen. Ieder van hun ontwikkeld geheime basissen en geheime communicatie.
+* Door de eeuwen heen groeien zo ieder van de dwergen, ondanks hun "onzuivere ziel", minder wild en als een ras dat voor elkaar uitkijkt. Geen "nog onzuiverdere zielen" komen zo te ontstaan.
+* Door hun goede dieet en rustig bestaan leven ze ook weer op den duur langer dan eerst. Al nog steeds korter dan mensen.
+* De dwergen in de grotten krijgen een steeds blekere huid, maar leren door de tijd heen ook de potentie van metalen. Met wat tegenzin besluiten ze toch voorzichtig wat van hun metaalcreaties te verhandelen met de mensen en elven.
+* Dit maakt de dwergen in de grotten op den duur rijk. En sterk. En trots. Toch houden ze nog altijd al hun geheimen (waaronder hun technieken) bij zich en vertrouwen ze nog altijd niet de andere rassen.
+* De dwergen worden georganiseerd en bouwen een netwerk van kings en kingdoms. Maar bouwen nog altijd hun grote metalen deuren uit wantrouwen.

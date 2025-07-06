@@ -22,6 +22,14 @@ main {
     border-radius: 25px;
 }
 
+.flex {
+    height: 130px;
+    * {
+        position: relative;
+        z-index: 999;
+    }
+}
+
 /*===========================*/
 /*=           TEXT          =*/
 /*===========================*/
@@ -30,6 +38,7 @@ h1 {
     /* size */
     margin: auto;
     width: fit-content;
+    padding: 5px;
 
     /* text */
     font-size: 80px;
@@ -39,10 +48,48 @@ h1 {
 
     /* background */
     background-color: brown;
+    border: 10px solid white;
 }
 
 p.red {
     /* text */
     color: brown;
     font-weight: bolder;
+}
+
+p.black {
+    /* size */
+    margin: 20px;
+    padding: 10px;
+
+    /* text */
+    font-size: large;
+    color: white;
+
+    /* background */
+    background-color: black;
+}
+
+p.scroll {
+    /* size */
+    margin: 20px;
+    padding: 10px;
+
+    /* text */
+    font-style: italic;
+
+    /* background */
+    background-color: lightyellow;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+}
+
+/*===========================*/
+/*=         DIVIDER         =*/
+/*===========================*/
+
+hr.title {
+    border: 30px solid brown;
+    top: -100px;
+    z-index: 1;
 }
